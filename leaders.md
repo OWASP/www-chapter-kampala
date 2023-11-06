@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Aramanthan Khaukha](mailto:aramanthan.khaukha@owasp.org)
+* [Fatuma Namono](mailto:fatuma.namono@owasp.org)
+* [Ivan Mugabi](mailto:ivan.mugabi@owasp.org)
