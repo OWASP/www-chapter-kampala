@@ -10,12 +10,13 @@ meetup-group:
 
 <div style='color:red;'>
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+We are delighted to welcome you to the OWASP Kampala Chapter, your gateway to the world of application security and cybersecurity in Uganda.
+
 
 <ul>
 <li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
 
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
+<li>title: OWASP Kampala</li>
 
 <li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
 
