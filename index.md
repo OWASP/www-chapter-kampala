@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Kampala
-tags: example-tag
+tags: Kampala-tag
 region: Africa
 meetup-group:
 
@@ -11,19 +11,17 @@ meetup-group:
 <div style='color:red;'>
 
 We are delighted to welcome you to the OWASP Kampala Chapter, your gateway to the world of application security and cybersecurity in Uganda.
+Our mission is to enrich Uganda’s application security community and strengthen the cybersecurity landscape across the nation. With a commitment to knowledge sharing, collaboration, and cutting-edge practices, we aim to empower individuals and organizations in their journey towards robust cybersecurity.
 
+At OWASP Kampala Chapter, we believe in the power of collective knowledge and the importance of building a strong cybersecurity community. Our events, workshops, and activities are designed to provide a platform for professionals, enthusiasts, and beginners to learn, connect, and contribute to the ever-evolving field of cybersecurity.
 
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
+We hope you can join us in accomplishing this mission. Whether you are an experienced cybersecurity expert or someone new to the field, there’s a place for you here. Together, we can make a difference in the security landscape of Uganda.
 
-<li>title: OWASP Kampala</li>
+Stay tuned for upcoming events, educational resources, and opportunities to connect with like-minded individuals. Your participation is the key to our collective success. Let’s secure Uganda’s digital future, one step at a time.
 
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
+Join us on this exciting journey towards a more secure and resilient cybersecurity ecosystem in Uganda. Together, we can achieve great things in the world of application security and cybersecurity.
 
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
+Welcome to OWASP Kampala Chapter!
 
 </div>
 
