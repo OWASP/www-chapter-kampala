@@ -4,12 +4,11 @@ layout: col-sidebar
 title: OWASP Kampala
 tags: Kampala-tag
 region: Africa
-meetup-group:
+meetup-group: OWASP Kampala Chapter
 
 ---
 
-<div style='color:red;'>
-
+## Welcome
 We are delighted to welcome you to the OWASP Kampala Chapter, your gateway to the world of application security and cybersecurity in Uganda.
 Our mission is to enrich Uganda’s application security community and strengthen the cybersecurity landscape across the nation. With a commitment to knowledge sharing, collaboration, and cutting-edge practices, we aim to empower individuals and organizations in their journey towards robust cybersecurity.
 
@@ -22,8 +21,6 @@ Stay tuned for upcoming events, educational resources, and opportunities to conn
 Join us on this exciting journey towards a more secure and resilient cybersecurity ecosystem in Uganda. Together, we can achieve great things in the world of application security and cybersecurity.
 
 Welcome to OWASP Kampala Chapter!
-
-</div>
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
