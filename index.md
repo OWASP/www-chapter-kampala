@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Kampala
-tags: Kampala-tag
+tags: owaspkampala
 region: Africa
 meetup-group: OWASP Kampala Chapter
 
