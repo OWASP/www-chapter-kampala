@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Kampala
 tags: owaspkampala
 region: Africa
+country: Uganda
 meetup-group: OWASP Kampala Chapter
 
 ---
