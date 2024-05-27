@@ -35,7 +35,7 @@ We will be running a Chapter Meetup every 2-3 months with the option to have add
 
 ## Where?
 
-We will run a mix of in-person and virtual meetups. All our upcoming events are always announced on (https://www.meetup.com/owasp-kampala-chapter/)
+We will run a mix of in-person and virtual meetups. All our upcoming events are always announced on (https://www.meetup.com/owasp-kampala-chapter/).
 
 ## Call for Speakers and Volunteers
 
