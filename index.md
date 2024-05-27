@@ -34,9 +34,9 @@ Join us on this exciting journey towards a more secure and resilient cybersecuri
 
 We will be running a Chapter Meetup every 2-3 months with the option to have additional events such as hands-on workshops.
 
-## What’s going to happen?
-To be announced via our OWASP Kampala Chapter Meetup Group (https://www.meetup.com/owasp-kampala-chapter). We shall usually have a key note and 1-3 talks that related to information and application security.
+## Where?
 
+We will run a mix of in-person and virtual meetups. All our upcoming events are always announced on (https://www.meetup.com/owasp-kampala-chapter).
 ## Call for Speakers and Volunteers
 
 We are looking for presentations for the next OWASP Kampala Chapter Events! Interested to give a presentation, conduct a training workshop or volunteer for us? Please contact us the OWASP Kampala Chapter.
