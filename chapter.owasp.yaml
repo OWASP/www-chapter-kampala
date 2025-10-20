@@ -1,0 +1,28 @@
+leaders:
+  - name: Aramanthan Khaukha
+    email: aramanthan.khaukha@owasp.org
+  - name: Fatuma Namono
+    email: fatuma.namono@owasp.org
+  - name: Ivan Mugabi
+    email: ivan.mugabi@owasp.org
+    github: ivanmugabi
+  - name: Eddy Ssebiragala
+    email: eddy.ssebiragala@owasp.org
+location:
+  country: Uganda
+  country_code: UG
+  region: Central Region
+  city: Kampala
+  latitude: 0.3177137
+  longitude: 32.5813539
+meetup_group: OWASP Kampala Chapter
+name: OWASP Kampala
+repositories:
+  - name: www-chapter-kampala
+    url: https://github.com/OWASP/www-chapter-kampala
+    description: OWASP Foundation Web Repository
+tags:
+  - owaspkampala
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-kampala
